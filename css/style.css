@@ -20,6 +20,9 @@ body {
     margin: 0 auto;
     background-color: #d8e6d9;
 }
+.hero-header {
+  position: relative;
+}
 .site-title {
     position: absolute;
     top: 50%;
