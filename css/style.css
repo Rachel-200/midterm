@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Base Styles & Reset
+   ========================================================================== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #d8e6d9;
+    color: #1c2e24;
+    line-height: 1.6;
+    padding: 20px 0;
+}
+
+.page-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #d8e6d9;
+}
